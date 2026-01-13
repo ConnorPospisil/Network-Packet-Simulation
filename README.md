@@ -120,11 +120,12 @@ If other packets are transmitting, queueing delays are added.
 
 ---
 
-## Visualization
+## Visualization 
 
-The simulator generates a visualization showing how delays build up within a packet burst:
+The simulator generates a visualization showing how delays build up within a packet burst. The visualization can be found in the output folder above or by following this link:
 
 ![Delay Breakdown](Outputs%20(Delay%20Info)/burst_delay_analysis.png)
+
 
 **What This Shows:**
 
